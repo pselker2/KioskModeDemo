@@ -20,7 +20,7 @@ function setup() {
     },
     services: [
       { url: 'pselker@cisco.call.ciscospark.com', name: 'Loan' },
-      { url: 'herndon-m262-codecplus@ciscofedsales.rooms.webex.com', name: 'Advice' },
+      { url: 'luvelasc@cisco.call.ciscospark.com', name: 'Advice' },
       { url: 'erica.talking@ivr.vc', name: 'Credit' },
     ],
   });
